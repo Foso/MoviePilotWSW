@@ -8,6 +8,6 @@ Durch Auskommentieren der Werte in der moviepilotWSW.user.js kann man bestimmen 
 
 <img src="https://github.com/Foso/foso.github.io/blob/master/img/MoviePilotWSWvorher.png" />Ohne Script</img>
 
-<img src="https://github.com/Foso/foso.github.io/blob/master/img/MoviePilotWSWnachher.png" />Mit Script</img
+<img src="https://github.com/Foso/foso.github.io/blob/master/img/MoviePilotWSWnachher.png" />Mit Script</img>
 
 
